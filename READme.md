@@ -25,3 +25,10 @@
  - Example of All String Built-in Function
   
   [Detail](/Day4/Readme.md)
+
+# Day5 List 
+ - List
+ - How to create List
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day5/Readme.md)
