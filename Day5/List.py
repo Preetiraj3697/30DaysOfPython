@@ -299,3 +299,5 @@ full_stack.insert(redux_index + 1, 'Python')
 full_stack.insert(redux_index + 2, 'SQL')
 
 print("Updated full stack technologies:", full_stack)
+
+
