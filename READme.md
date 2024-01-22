@@ -32,3 +32,10 @@
  - Create, Read, Update, Delete, insert, etc.
   
   [Detail](/Day5/Readme.md)
+
+# Day6 Tuples
+ - Tuples
+ - How to create Tuples
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day6/Readme.md)
