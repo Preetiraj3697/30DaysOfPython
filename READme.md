@@ -39,3 +39,32 @@
  - Create, Read, Update, Delete, insert, etc.
   
   [Detail](/Day6/Readme.md)
+
+# Day7 Tuples
+ - Sets
+ - How to create Tuples
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day7/Readme.md)
+
+
+# Day8 Dictionaries
+ - Dictionaries
+ - How to create Tuples
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day8/Readme.md)
+
+# Day9 Conditions
+ - Conditions
+ - How to create Tuples
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day9/Readme.md)
+
+# Day10 Loops
+ - Loops
+ - How to create Tuples
+ - Create, Read, Update, Delete, insert, etc.
+  
+  [Detail](/Day10/Readme.md)
