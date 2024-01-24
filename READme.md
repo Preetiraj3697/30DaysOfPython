@@ -42,7 +42,7 @@
 
 # Day7 Tuples
  - Sets
- - How to create Tuples
+ - How to create Sets
  - Create, Read, Update, Delete, insert, etc.
   
   [Detail](/Day7/Readme.md)
@@ -50,21 +50,21 @@
 
 # Day8 Dictionaries
  - Dictionaries
- - How to create Tuples
+ - How to create Dictionaries
  - Create, Read, Update, Delete, insert, etc.
   
   [Detail](/Day8/Readme.md)
 
 # Day9 Conditions
  - Conditions
- - How to create Tuples
- - Create, Read, Update, Delete, insert, etc.
+ - if,else,elif
+ - Logical Operator etc.
   
   [Detail](/Day9/Readme.md)
 
 # Day10 Loops
  - Loops
- - How to create Tuples
- - Create, Read, Update, Delete, insert, etc.
+ - For Loop, while Loop
+ - Break, Continue keyboard etc.
   
   [Detail](/Day10/Readme.md)
