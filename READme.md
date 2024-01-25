@@ -75,3 +75,17 @@
  - Arbitrary Number of Arguments etc.
   
   [Detail](/Day11/Readme.md)
+
+# Day12 Modules
+ - Modules
+ - Import Built-in Modules
+ - Import functions from a module etc.
+  
+  [Detail](/Day12/Readme.md)
+
+# Day13 List Comprehension
+ - List Comprehension
+ - Lambda Function
+ - Creating a Lambda Function etc.
+  
+  [Detail](/Day13/Readme.md)
