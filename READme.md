@@ -89,3 +89,10 @@
  - Creating a Lambda Function etc.
   
   [Detail](/Day13/Readme.md)
+
+# Day14 Higher Order Functions
+ - Higher Order Functions
+ - Closures, Decorators
+ - Built-in Higher Order Functions etc.
+  
+  [Detail](/Day14/Readme.md)
