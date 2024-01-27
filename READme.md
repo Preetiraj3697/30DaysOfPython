@@ -96,3 +96,10 @@
  - Built-in Higher Order Functions etc.
   
   [Detail](/Day14/Readme.md)
+
+# Day15 Type Errors
+ - How many type Errors
+ - typeError, IndexError, SyntaxError
+ - KeyError, ValueError, ImportError, etc.
+  
+  [Detail](/Day15/Readme.md)
