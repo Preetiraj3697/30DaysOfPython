@@ -103,3 +103,11 @@
  - KeyError, ValueError, ImportError, etc.
   
   [Detail](/Day15/Readme.md)
+
+# Day16 Python DateTime
+ - Python DateTime
+ - Getting datetime Information
+ - Formatting Date Output Using strftime
+ - String to Time Using strptime
+  
+  [Detail](/Day16/Readme.md)
