@@ -111,3 +111,108 @@
  - String to Time Using strptime
   
   [Detail](/Day16/Readme.md)
+
+# Day17 Exception Handling
+ - Exception Handling
+ - Packing and Unpacking Arguments in Python
+ - Spreading in Python
+ - Enumerate, Zip etc
+  
+  [Detail](/Day17/Readme.md)
+
+# Day18 Regular Expressions
+ - The re Module
+ - Splitting Text Using RegEx Split
+ - Writing RegEx Patterns
+ - Square Bracket, Escape character(\) in RegEx, One or more times(+) etc.
+  
+  [Detail](/Day18/Readme.md)
+
+# Day19 File Handling
+ - Opening Files for Reading
+ - File Types
+ - File with txt Extension, File with json Extension
+ - Changing JSON to Dictionary etc
+  
+  [Detail](/Day19/Readme.md)
+
+# Day20 PIP
+ - What is PIP ?
+ - Installing PIP, Instaling packages using Pip
+ - Uninstalling Packages, List of Packages
+ - Show Packages, PIP Freeze, Reading from URL etc.
+  
+  [Detail](/Day20/Readme.md)
+
+# Day21 Classes and Objects
+ - Creating a class, an Object
+ - Class Constructor, Object Methods
+ - Object Default Methods, Method to Modify Class default values
+ - Inheritance, Overriding parent method etc.
+  
+  [Detail](/Day21/Readme.md)
+
+# Day22 Web Scraping
+ - Python Web Scraping
+ - What is Web Scrapping etc. 
+  
+  [Detail](/Day22/Readme.md) 
+  
+# Day23 Virtual Environment
+ - Setting up Virtual Environment
+ - etc.
+  
+  [Detail](/Day23/Readme.md)
+
+# Day24 Statistics
+ - Python for Statistical Analysis
+ - Statistics
+ - Data 
+ - Numpy etc.
+  
+  [Detail](/Day24/Readme.md) 
+
+# Day25 Pandas
+ - Installing Pandas
+ - Importing Pandas
+ - DataFrames
+ - Reading CSV File using Pandas, Modifying a DataFrames, etc.
+  
+  [Detail](/Day25/Readme.md) 
+
+# Day26 Python for Web
+ - Python for Web, Flask
+ - Setting up your project directory, creating routes, creating templates
+ - Deployment, Creating Heroku account
+ - Login to Heroku, Create requirements and Profile etc.
+  
+  [Detail](/Day26/Readme.md) 
+
+# Day27 Python with MongoDB
+ - Python with MongoDB
+ - SQL versus NoSQL
+ - Connecting Flask application to MongoDB Cluster
+ - Creating a database and collection , Inserting many documents to collection etc.
+  
+  [Detail](/Day27/Readme.md) 
+
+# Day28 API
+ - Application Programming Interface(API)
+ - Building API, HTTP(Hypertext Transfer Protocol)
+ - Structure of HTTP
+ - Initial Request Line(Status Line), Initial Response Line(Status Line), Header Fields, The message body, Request Methods etc.
+  
+  [Detail](/Day28/Readme.md) 
+
+# Day29 Building an API
+ - Building API
+ - Structure of an API
+ - Retrieving data using get, Getting a document by id
+ - Creating data using POST, Updating using PUT, Deleting a document using Delete etc.
+  
+  [Detail](/Day29/Readme.md) 
+
+# Day30 Conclusions
+ - conclusions
+  
+  [Detail](/Day30/Readme.md) 
