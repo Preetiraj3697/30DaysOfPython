@@ -1,3 +1,5 @@
+# Beginner Project
+
 '''
 you type a word 'preeti' you program check this secure key this secure key a certain rule:
 1. if user type code more than and equal to 3 word that 1 word and append in last
